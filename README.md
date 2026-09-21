@@ -148,6 +148,18 @@ Each comparison page quotes the competitor's own page and shows the date of the 
 
 Turkish, English, Spanish, German, Portuguese, Russian and Hindi. Every dashboard page exists in all seven — there are no partially translated pages.
 
+### How do I contact VeyroBot?
+
+Email [support@veyrobot.xyz](mailto:support@veyrobot.xyz), or join the [support server](https://discord.gg/NKYe4WbyaN) for the fastest reply. Security reports go to the same address; the machine-readable contact file is at [veyrobot.xyz/.well-known/security.txt](https://veyrobot.xyz/.well-known/security.txt).
+
+### What permissions does VeyroBot ask for?
+
+VeyroBot does not ask for Administrator. The invite requests only the permissions its features use: Manage Roles and Manage Channels (auto-roles, level rewards, tickets, stat channels, temporary voice rooms), Kick, Ban and Timeout Members plus Manage Messages (moderation and AutoMod), View Audit Log (Staff Protection and accurate mod logs), Manage Server (invite tracking and health fixes), Manage Events, Create Expressions (emoji gallery), the voice permissions (music and temporary voice rooms) and Mention Everyone for announcement features. A message can only ping `@everyone` or a role if the person who wrote it has that permission themselves. Any module you don't use can be switched off in the dashboard; a disabled module takes no action in your server.
+
+### Is VeyroBot related to Vyro.ai or to similarly named sites?
+
+No. VeyroBot is a Discord bot whose only official website is [veyrobot.xyz](https://veyrobot.xyz), and it is not affiliated with Vyro.ai or with any similarly named product or site. VeyroBot is added through Discord's own authorization page and never asks for your Discord password or token.
+
 ### Is the source code available?
 
 No. This repository is a public product overview and VeyroBot is proprietary software; see [NOTICE](NOTICE.md).
@@ -167,6 +179,7 @@ No. This repository is a public product overview and VeyroBot is proprietary sof
 | Premium | [veyrobot.xyz/en/premium](https://veyrobot.xyz/en/premium) |
 | Status | [veyrobot.xyz/en/status](https://veyrobot.xyz/en/status) |
 | Support server | [discord.gg/NKYe4WbyaN](https://discord.gg/NKYe4WbyaN) |
+| Contact | [support@veyrobot.xyz](mailto:support@veyrobot.xyz) |
 
 ---
 
@@ -176,7 +189,7 @@ This repository exists to document and present the product. **It contains no sou
 is planned. VeyroBot is proprietary software — see [NOTICE](NOTICE.md).
 
 Found a bug or have a feature request? The [support server](https://discord.gg/NKYe4WbyaN) is the
-fastest route; issues here are welcome too.
+fastest route, or email [support@veyrobot.xyz](mailto:support@veyrobot.xyz); issues here are welcome too.
 
 <div align="center">
 <sub>© VeyroBot · All rights reserved</sub>
