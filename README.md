@@ -6,7 +6,9 @@
 
 **Stop stacking bots. Run your Discord server from one control center.**
 
-Moderation, anti-nuke, automod, tickets, leveling, music, stream alerts across eight platforms,
+VeyroBot is a Discord bot that runs a server's moderation, security and community features from a single web dashboard and scores the server's health.
+
+Moderation, anti-nuke, automod, tickets, leveling, music, stream and content alerts (YouTube, Twitch, Kick, Reddit, Bluesky, RSS and podcasts),
 scheduled messages and analytics — one web panel, one permission model, one database.
 
 [![Website](https://img.shields.io/badge/veyrobot.xyz-3B82F6?style=flat-square)](https://veyrobot.xyz)
@@ -120,15 +122,50 @@ A few things that are deliberate:
 
 ---
 
+## Frequently asked questions
+
+### What is VeyroBot?
+
+VeyroBot is a Discord bot that runs a server's moderation, security and community features from a single web dashboard and scores the server's health. The dashboard is available in seven languages at [veyrobot.xyz](https://veyrobot.xyz/en).
+
+### What does it replace?
+
+Most servers run separate bots for moderation, tickets, leveling, stream alerts and music. VeyroBot covers those from one bot with one web panel, one permission model and one database.
+
+### How does the server health score work?
+
+It scores a server from 0 to 100 from its real Discord permissions and settings — dangerous `@everyone` permissions, a low verification level, other bots holding Administrator, settings that silently do nothing — and gives the reason for every lost point. One-click fixes are applied only after you confirm and can be undone for 24 hours.
+
+### Is VeyroBot free?
+
+Adding VeyroBot is free. VeyroBot is still growing, so which features are free and which are Premium may change over time; the [Premium page](https://veyrobot.xyz/en/premium) always shows the current list.
+
+### How does VeyroBot compare with MEE6, Dyno or Carl-bot?
+
+Each comparison page quotes the competitor's own page and shows the date of the quote: [MEE6](https://veyrobot.xyz/en/compare/mee6), [Dyno](https://veyrobot.xyz/en/compare/dyno), [Carl-bot](https://veyrobot.xyz/en/compare/carl-bot) and [all three side by side](https://veyrobot.xyz/en/compare/mee6-dyno-carl-bot).
+
+### Which languages does it support?
+
+Turkish, English, Spanish, German, Portuguese, Russian and Hindi. Every dashboard page exists in all seven — there are no partially translated pages.
+
+### Is the source code available?
+
+No. This repository is a public product overview and VeyroBot is proprietary software; see [NOTICE](NOTICE.md).
+
+---
+
 ## Links
 
 | | |
 |---|---|
 | Website | [veyrobot.xyz](https://veyrobot.xyz) |
-| Documentation | [veyrobot.xyz/docs](https://veyrobot.xyz/docs) |
-| Command list | [veyrobot.xyz/commands](https://veyrobot.xyz/commands) |
-| Release notes | [veyrobot.xyz/changelog](https://veyrobot.xyz/changelog) |
-| Status | [veyrobot.xyz/status](https://veyrobot.xyz/status) |
+| Documentation | [veyrobot.xyz/en/docs](https://veyrobot.xyz/en/docs) |
+| Features | [veyrobot.xyz/en/features](https://veyrobot.xyz/en/features) |
+| Command list | [veyrobot.xyz/en/commands](https://veyrobot.xyz/en/commands) |
+| Blog | [veyrobot.xyz/en/blog](https://veyrobot.xyz/en/blog) |
+| Release notes | [veyrobot.xyz/en/changelog](https://veyrobot.xyz/en/changelog) |
+| Premium | [veyrobot.xyz/en/premium](https://veyrobot.xyz/en/premium) |
+| Status | [veyrobot.xyz/en/status](https://veyrobot.xyz/en/status) |
 | Support server | [discord.gg/NKYe4WbyaN](https://discord.gg/NKYe4WbyaN) |
 
 ---
