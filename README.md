@@ -6,7 +6,7 @@
 
 **Stop stacking bots. Run your Discord server from one control center.**
 
-VeyroBot is a Discord bot that runs a server's moderation, security and community features from a single web dashboard and scores the server's health.
+VeyroBot is a Discord server management bot that audits your server's setup, scores its health and fixes risky settings in one click — moderation, anti-raid and anti-nuke included.
 
 Moderation, anti-nuke, automod, tickets, leveling, music, stream and content alerts (YouTube, Twitch, Kick, Reddit, Bluesky, RSS and podcasts),
 scheduled messages and analytics — one web panel, one permission model, one database.
@@ -126,7 +126,7 @@ A few things that are deliberate:
 
 ### What is VeyroBot?
 
-VeyroBot is a Discord bot that runs a server's moderation, security and community features from a single web dashboard and scores the server's health. The dashboard is available in seven languages at [veyrobot.xyz](https://veyrobot.xyz/en).
+VeyroBot is a Discord server management bot that audits your server's setup, scores its health and fixes risky settings in one click — moderation, anti-raid and anti-nuke included. The dashboard is available in seven languages at [veyrobot.xyz](https://veyrobot.xyz/en).
 
 ### What does it replace?
 
